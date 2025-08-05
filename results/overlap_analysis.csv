@@ -1,0 +1,6 @@
+Library,Putative_Terms,Original_Terms,Common_Terms,Overlap_Percentage
+GO_Biological_Process_2021,652,1317,265,40.644171779141104
+GO_Molecular_Function_2021,88,131,19,21.59090909090909
+GO_Cellular_Component_2021,11,64,2,18.181818181818183
+Reactome_2022,549,252,106,19.30783242258652
+KEGG_2021_Human,144,180,115,79.86111111111111

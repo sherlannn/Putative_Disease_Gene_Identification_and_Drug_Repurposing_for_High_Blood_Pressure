@@ -1,0 +1,9 @@
+GDA Validation Report
+======================
+Total genes: 301
+Valid genes: 299
+Invalid genes: 2
+
+Resolved Genes:
+LOC106627981 -> None
+LOC129992813 -> None
